@@ -48,7 +48,8 @@ library
                        LambdaCase,
                        NamedFieldPuns,
                        StandaloneDeriving,
-                       FlexibleContexts
+                       FlexibleContexts,
+                       StandaloneKindSignatures
   build-depends:       base >=4.8 && <5,
                        contravariant >= 1.3.3,
                        inline-c >= 0.5.5.9,
